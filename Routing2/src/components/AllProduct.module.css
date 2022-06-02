@@ -1,0 +1,16 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+
+.image{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
